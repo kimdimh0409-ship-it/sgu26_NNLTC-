@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NNLC#\\QuanLyThanhToan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|d:\\nnlc#\\quanlythanhtoan\\quanlythanhtoan\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|solutionrelative:quanlythanhtoan\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|d:\\nnlc#\\quanlythanhtoan\\quanlythanhtoan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|solutionrelative:quanlythanhtoan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|d:\\nnlc#\\quanlythanhtoan\\quanlythanhtoan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|solutionrelative:quanlythanhtoan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|d:\\nnlc#\\quanlythanhtoan\\quanlythanhtoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|solutionrelative:quanlythanhtoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|d:\\nnlc#\\quanlythanhtoan\\quanlythanhtoan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6D1D3F2-1E5F-4E0B-8388-2583C5B5105A}|QuanLyThanhToan\\QuanLyThanhToan.csproj|solutionrelative:quanlythanhtoan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Form1.resx",
+              "RelativeDocumentMoniker": "QuanLyThanhToan\\Form1.resx",
+              "ToolTip": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Form1.resx",
+              "RelativeToolTip": "QuanLyThanhToan\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-04T06:26:26.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyThanhToan\\Program.cs",
+              "ToolTip": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Program.cs",
+              "RelativeToolTip": "QuanLyThanhToan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T06:24:50.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyThanhToan\\Form1.cs",
+              "ToolTip": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Form1.cs",
+              "RelativeToolTip": "QuanLyThanhToan\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T06:24:44.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThanhToan\\Form1.Designer.cs",
+              "ToolTip": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Form1.Designer.cs",
+              "RelativeToolTip": "QuanLyThanhToan\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T06:24:21.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyThanhToan\\Form1.cs",
+              "ToolTip": "D:\\NNLC#\\QuanLyThanhToan\\QuanLyThanhToan\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyThanhToan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T06:23:34.071Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

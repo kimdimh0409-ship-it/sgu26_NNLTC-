@@ -1,0 +1,17 @@
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhBoTui.Form1.resources
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhBoTui.csproj.GenerateResource.cache
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhBoTui.GeneratedMSBuildEditorConfig.editorconfig
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhBoTui.AssemblyInfoInputs.cache
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhBoTui.AssemblyInfo.cs
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhBoTui.csproj.CoreCompileInputs.cache
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\bin\Debug\net8.0-windows\MayTinhBoTui.exe
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\bin\Debug\net8.0-windows\MayTinhBoTui.deps.json
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\bin\Debug\net8.0-windows\MayTinhBoTui.runtimeconfig.json
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\bin\Debug\net8.0-windows\MayTinhBoTui.dll
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\bin\Debug\net8.0-windows\MayTinhBoTui.pdb
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhBoTui.dll
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\refint\MayTinhBoTui.dll
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhBoTui.pdb
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhBoTui.genruntimeconfig.cache
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\ref\MayTinhBoTui.dll
+D:\NNLC#\MayTinhBoTui\MayTinhBoTui\obj\Debug\net8.0-windows\MayTinhB.D949CFDF.Up2Date

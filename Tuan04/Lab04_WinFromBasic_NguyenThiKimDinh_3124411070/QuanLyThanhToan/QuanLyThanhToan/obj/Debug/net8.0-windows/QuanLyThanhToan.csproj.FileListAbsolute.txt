@@ -1,0 +1,17 @@
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\bin\Debug\net8.0-windows\QuanLyThanhToan.exe
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\bin\Debug\net8.0-windows\QuanLyThanhToan.deps.json
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\bin\Debug\net8.0-windows\QuanLyThanhToan.runtimeconfig.json
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\bin\Debug\net8.0-windows\QuanLyThanhToan.dll
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\bin\Debug\net8.0-windows\QuanLyThanhToan.pdb
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\KhachSanThanhThanh.Form1.resources
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\QuanLyThanhToan.csproj.GenerateResource.cache
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\QuanLyThanhToan.GeneratedMSBuildEditorConfig.editorconfig
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\QuanLyThanhToan.AssemblyInfoInputs.cache
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\QuanLyThanhToan.AssemblyInfo.cs
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\QuanLyThanhToan.csproj.CoreCompileInputs.cache
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\QuanLyThanhToan.dll
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\refint\QuanLyThanhToan.dll
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\QuanLyThanhToan.pdb
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\QuanLyThanhToan.genruntimeconfig.cache
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\ref\QuanLyThanhToan.dll
+D:\NNLC#\QuanLyThanhToan\QuanLyThanhToan\obj\Debug\net8.0-windows\QuanLyTh.677BD047.Up2Date
