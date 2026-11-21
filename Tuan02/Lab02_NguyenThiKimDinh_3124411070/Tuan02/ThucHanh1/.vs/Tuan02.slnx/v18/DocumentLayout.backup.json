@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\l\u1EADp tr\u00ECnh c#\\tuan02\\bai151617.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|solutionrelative:bai151617.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\l\u1EADp tr\u00ECnh c#\\tuan02\\bai1314.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|solutionrelative:bai1314.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\l\u1EADp tr\u00ECnh c#\\tuan02\\bai101112.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|solutionrelative:bai101112.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\l\u1EADp tr\u00ECnh c#\\tuan02\\bai6789.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|solutionrelative:bai6789.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\l\u1EADp tr\u00ECnh c#\\tuan02\\bai2345.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|solutionrelative:bai2345.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|d:\\\u0111\u1EA1i h\u1ECDc\\l\u1EADp tr\u00ECnh c#\\tuan02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA21E35-D0FE-72FB-2EC9-0E6EE4CFFB46}|Tuan02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai151617.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai151617.cs",
+              "RelativeDocumentMoniker": "Bai151617.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai151617.cs",
+              "RelativeToolTip": "Bai151617.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:10:38.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai1314.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai1314.cs",
+              "RelativeDocumentMoniker": "Bai1314.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai1314.cs",
+              "RelativeToolTip": "Bai1314.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:09:26.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai101112.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai101112.cs",
+              "RelativeDocumentMoniker": "Bai101112.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai101112.cs",
+              "RelativeToolTip": "Bai101112.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:08:58.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai6789.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai6789.cs",
+              "RelativeDocumentMoniker": "Bai6789.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai6789.cs",
+              "RelativeToolTip": "Bai6789.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:07:10.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai2345.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai2345.cs",
+              "RelativeDocumentMoniker": "Bai2345.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Bai2345.cs",
+              "RelativeToolTip": "Bai2345.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:06:27.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0110\u1EA1i H\u1ECDc\\l\u1EADp tr\u00ECnh C#\\Tuan02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:14:32.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
